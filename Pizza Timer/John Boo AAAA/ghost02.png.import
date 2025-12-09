@@ -5,7 +5,7 @@ type="CompressedTexture2D"
 uid="uid://b55ol5a2q28fd"
 path="res://.godot/imported/ghost02.png-a1dc37da27f474c6a44af2abccb1ff0a.ctex"
 metadata={
-"vram_texture": false
+"vram_texture": True
 }
 
 [deps]
